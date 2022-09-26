@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DiferentesViews</string>
+    <string name="portrait">Retrato</string>
+    <string name="landscape">Estoy apaisado</string>
 </resources>
